@@ -22,7 +22,6 @@ while num > 0:
 
     num = num // 10
 
-
 print(f'Кол-во цифр 3: {cnt_3}')
 print(f'Сколько раз встречается последняя цифра: {cnt_last}')
 print(f'Кол-во четных цифр: {cnt_even}')
